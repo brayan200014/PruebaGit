@@ -1,0 +1,10 @@
+C:\Users\Walter Amador\Desktop\PruebaGit\probandoGIT\probandoGIT\bin\Debug\probandoGIT.exe.config
+C:\Users\Walter Amador\Desktop\PruebaGit\probandoGIT\probandoGIT\bin\Debug\probandoGIT.exe
+C:\Users\Walter Amador\Desktop\PruebaGit\probandoGIT\probandoGIT\bin\Debug\probandoGIT.pdb
+C:\Users\Walter Amador\Desktop\PruebaGit\probandoGIT\probandoGIT\obj\Debug\probandoGIT.csprojAssemblyReference.cache
+C:\Users\Walter Amador\Desktop\PruebaGit\probandoGIT\probandoGIT\obj\Debug\probandoGIT.Form1.resources
+C:\Users\Walter Amador\Desktop\PruebaGit\probandoGIT\probandoGIT\obj\Debug\probandoGIT.Properties.Resources.resources
+C:\Users\Walter Amador\Desktop\PruebaGit\probandoGIT\probandoGIT\obj\Debug\probandoGIT.csproj.GenerateResource.cache
+C:\Users\Walter Amador\Desktop\PruebaGit\probandoGIT\probandoGIT\obj\Debug\probandoGIT.csproj.CoreCompileInputs.cache
+C:\Users\Walter Amador\Desktop\PruebaGit\probandoGIT\probandoGIT\obj\Debug\probandoGIT.exe
+C:\Users\Walter Amador\Desktop\PruebaGit\probandoGIT\probandoGIT\obj\Debug\probandoGIT.pdb
