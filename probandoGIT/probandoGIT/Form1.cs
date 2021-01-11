@@ -19,7 +19,9 @@ namespace probandoGIT
 
         private void button1_Click(object sender, EventArgs e)
         {
+            String hi = "hi";
             String bicho = "hola bicho";
+            String hello = "hello";
         }
     }
 }
