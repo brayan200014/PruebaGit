@@ -22,6 +22,7 @@ namespace probandoGIT
             String hi = "hi";
             String bicho = "hola bicho";
             String hello = "hello";
+            String Hola= "mundo";
         }
     }
 }
